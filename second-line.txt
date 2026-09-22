@@ -1,2 +1,3 @@
 This is my second file created from terminal Git.
 Now, this file has been pushed to remote repository.
+This is third line I am adding in GitHub second file.
